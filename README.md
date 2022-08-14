@@ -13,4 +13,4 @@ You can view the site here
 - Css
 - JavaScript
 
-<img src="images/dicee.png"  width= 500px height= 400px>
+<img src="images/screenshot.png"  width= 600px height= 400px>
